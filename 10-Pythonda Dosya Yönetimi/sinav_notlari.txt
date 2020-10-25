@@ -1,0 +1,4 @@
+ahmet yılmaz:100,80,80
+mehmet yılmaz:90,70,80
+deniz efe:100,80,90
+çınar turan:43,77,80
