@@ -1,0 +1,550 @@
+1-Youtube downloader'dan, ses kaydedicisine, duplicate dosya temizleyicisinden, email göndericisine bir sürü otomatizasyon scriptlerinin toplandığı güzel bir repo. ihtiyacınız olmasa bile diğer geliştiricilerin kodlarını okumak için güzel bir derleme.
+python-geeks/Automation-scripts
+Repo for creating awesome automation scripts to make my panda lazier - python-geeks/Automation-scripts
+github.com
+23
+243
+2-Ne iş yaptığınızın önemi yok, bunları öğrenin:
+1) İngilizce
+2) Excel
+3) Python
+4
+10
+125
+3-Python ile Image Processing yapacağımı düşünerek aldığım derste MATLAB görecek olmamız şoku....
+4-Python öğrenmeye mi çalışıyorsunuz? 
+Dünyanın en popüler programlama dili olan #Python'a yeni başlayanlar için harika örneklerin olduğu 2 sayfalık #cheatsheet 
+Daha çok insana faydalı olması için RT yapmayı unutmayın 
+2
+59
+323
+5-python dandik bir program (her konuda bir fikrim vardır)
+1
+3
+6-Python öğreniyorum canım hiç öpmiyim.
+1
+7-@tamerdikbiyik
+ adlı kişiye yanıt olarak
+Aracı kurumlar Bim defansif, Turkcell güçlü nakit yapısı diye klasik raporlar yazmayı bırakıp mesela bir şirketin özkaynakları yeniden değerlemeyle nasıl makyajlanır onu anlatsa ya da her altın buldum demeyle onun net kara ne kadar etki edebileceğini öyle kolay olmadığını yazsa
+1
+8-Bunu yapamayacaklarını veya  yapmayacaklarını  hepimiz biliyoruz .
+2
+9-#Python 'a başladım 2 gündür deniyorum bir şeyler baya sevimliymiş meret aslında. El alışkanlığı arada süslü parantez, noktalı virgül kaçıyor elimden ama olsundu buna da alışırım 
+4
+10-Plan: Sabah kalkıp datacamp'tan Python çalışırım, öğleden sonra ielts listening bakarım, akşam spora giderim.
+
+Yapılan: müge anlı eşliğinde online 101 oynamak
+1
+11-@salih_baltali
+ adlı kişiye yanıt olarak
+Bunun kadar "Nalet" bir dil görmedim.
+Kaskatı, hiç esneklik yok. Python ile karşılaştırırsam, python bunun yanında puding.
+1
+12-Döneminin Python'ıydı belkide.
+1
+13-Hoca python, C++, JavaScript dillerini bilen var mı aranızdan diyor. Diyemedim hocam bunların ne anlama geldiğini bile tek bilen benim o da 3 ay web tasarım dersi aldım gkdkdlfş Hocaların beklentisi mi yüksek yoksa biz mi rahat takılıyoruz anlamadım
+1
+14-Tüm syntax kurallarını anlarım da neden her programlama dilinde "Else if" kullanımı farklı bunu anlamıyorum.
+Ruby ->     elsif
+Go    ->     else if
+Python ->  elif
+Ne gerek var abi?
+2
+15-@basaranalper
+ adlı kişiye yanıt olarak
+Java yer mi Alper bey 
+1
+1
+16-Yazılımcı olmayacaksanız Python yeterli 
+1
+17-PYthon  “da yardımcı olacak birileri var mı?
+Şansımı deniyim dedim..
+1
+1
+18-@basaranalper
+ adlı kişiye yanıt olarak
+Ben de Python öğreniyorum . Makine öğrenmesine giriş yaptım.  Ve herkese de tavsiye ederim . Ne iş yaparsanız yapın . Programlama hayatınıza kolaylık kazandırıyor.  Bilgisayarlara daha kolay hukmetmeye yarıyor.
+2
+19-@melihaokur2
+ adlı kişiye yanıt olarak
+3bin sene önce çıkarılmış olan altın değerini kaybetmeden hala elden ele dolaşıyor peki 20 sene önceki banknotlar nerede? Durum buyken hastalık bunun neresinde? Hastalık fiat currency i sorgusuz sualsiz kabul etmede
+1
+4
+20-ayrıca oksitlenmiyor sanırım :)
+1
+1
+21-@tamerdikbiyik
+ ve 
+@borsaveborsa
+ adlı kullanıcılara yanıt olarak
+İşin ilginç tarafı küresel çapta buna benzer hareketler var Russell2000de çok uçuk hareketler olurken Exxon, Delta Airline, gibi hisseler yerlerde sürünüyor. Evet sektörleri sıkıntılı ama ilginç bir dönemden geçiyoruz
+2
+2
+22-finansal birliktelik yani Wall Street
+23-@BulentAtik_epik
+ adlı kişiye yanıt olarak
+Bizde uzun vadeli yatırım lafının altı çok boşaldı. "ben uzun vadeciyim", "günlük heveslerim yok", "Buffett tarzındanım", "kısa yoldan zengin olma derdinde değilim"...iyi hoş ama bu küresel şirketlerde bile belli bir seviyeye göre %90'a varan değer kaybı var. Trading ne kadar+
+2
+2
+24-'...uzun vadeli yatırım lafının altı çok boşaldı'
+
+Katılıyorum!
+
+Bu deyimi...çok daha somut tanımlamak ve uygulama şartlarını açıklamak... elzem.
+2
+25-@umutheatre
+ adlı kişiye yanıt olarak
+monty python'a tahammül edemiyorum normalde. tek istisnası bu film, çok severim
+1
+26-@kayalif1
+ ve 
+@BulentAtik_epik
+ adlı kullanıcılara yanıt olarak
+Temettüyü şundan dolayı önemsiyorum hocam
+Elde tutma süresini uzatma bakımından teşvik edici olması nedeniyle
+Yoksa bir noktada hisseyi likide etme güdüsü ortaya çıkıyor
+Bunun en güzel örneği havayolu şirketleri olabilir
+1
+1
+1
+27-Ben şahsen temettüye filan bakmıyorum. Şirket finansallarına bakıyorum.Teknik olarak giriş fiyatına bakıyorum.Üstüne temettü verirse ne ala. :D
+1
+28-23 Tane python kursu için : 
+http://bedavakurs.net/category/Python
+4
+29-Programlama: 
+10%’u kod yazma ve 90%’ı ise neden işe yaramadığını anlamaya çalışmaktır.
+Veri analizi ve Machine Learning : 
+1%’i kod yazma, 9%’u kodun neden işe yaramadığını anlama, 90%’ı ise verilerde neyin yanlış olduğunu bulmaktır.
+
+Ben Hammer
+2
+3
+8
+30-YL İnşaat bitirdim, C++ ve Python iyi derece biliyorum. Bilgisayar bilimleri,AI, yükseğe kayıtı yaptım. Çok stesliyim. Başara bilecek miyim acaba düşünüyorum.
+1
+3
+31-Bir bot daha dünyaya geldi 
+Tweeti Alıntıla
+Mars Hava Durumu
+@HavaMars
+ · 13 Eki
+Selam dünya! Bugün InSight görevinin 667. Mars günü. Mevsimlerden sonbahar.
+1
+8
+32-Python falan anlamıyorum ama birileri oturup cheat-sheet yapmış bana da paylaşmak düşer.
+Tweeti Alıntıla
+OpenAcademics
+@OpenAcademics
+ · 23s
+Trying to learn python? 
+ Here is a great free resource with 26 pages(!) of cheat sheets suitable for beginners (examples below). The full pdf can be accessed here: https://bit.ly/3lHzYQu
+
+Please share 
+ #AcademicTwitter #phdchat #Bioinformatics
+3
+1
+45
+33-Benim planlarda değişiklik oldu, R deği de Python öğrenmek durumundayım. Python paylaşımları da bekliyoruz artık 
+1
+1
+34-@borsaveborsa
+ adlı kişiye yanıt olarak
+Peki neden small capte kaldı bu hareket yalnızca? Klasik söylem yerli spekülatörlerin gücü büyük hisselere yetmiyor ama "para bolluğu dönemi" hepsinin üzerinde bir kavram. Bu ayrışmanın nedeni tam olarak nedir?
+2
+35-Düşük sermayeli ve  düşük halka açıklık oranı manipülasyona açık hale getirdi .   Ortam müsait  yani   kısaca   buna spk ve bist çanak tutması  eklenince  zıvanadan çıktı olay
+1
+2
+36-Bazı şirketler 30 senedir halka açık ve temettü düzeltmelerini saymazsak 30 senede 20 liralık bir marjda hareket etmiş ama son bir sene bu marjın 5-10 katı aralıkta bir marj oluşmuş. Bunun nedeni tam olarak neydi acaba? Geçmişte neden olmadı? Şimdi ne değişti? İtici güç ne oldu?
+1
+37-uzun yillar sonra gelen "para bollugu donemi"
+1
+1
+38-Devletin hesaplarını ergenlere vermişler takılıyorlar...
+Tweeti Alıntıla
+TC İçişleri Bakanlığı Maske
+Mesafe
+Temizlik
+@TC_icisleri
+ · 18s
+Işıklarımız hiç sönmüyor.
+2
+9
+70
+39-O değil de bakan ciddi ciddi bütün ışıkları yakın ardından fotoğraf çekin diye talimat mı vermiş?
+ Ülkede monty python gibi bir komedi grubu olsa 10 senelik malzeme çıkardı.
+1
+40-@finance_python
+ adlı kişiye yanıt olarak
+piyasa oyuncularinin dusuk halka aciklik orani olan, gorece daha dusuk sermayeli sirketlerde cok daha yuksek getiriler elde edebilmesi.. 
+
+buyuk hissede patronla anlasamazsin, fiyatlar sistigi zaman sirketin hisse satmasini engelleyemezsin vs..
+
+bir de ky'nin oynaklik sevmesi...
+2
+1
+1
+41-@kayalif1
+ ve 
+@BulentAtik_epik
+ adlı kullanıcılara yanıt olarak
+Şahsi düşüncem uzun vadenin asgari sınırı en az birkaç temettü alabilecek sürede hisseyi tutmaktır. Temettüsüz uzun vade olmaz. Şirket büyüsün ama elde tuttukça bana nakit akışı sağlasın zaten bu yüzden arsa, altın, döviz almaktan daha cazip oluyor hissedarlık
+2
+2
+42-'...Şirket büyüsün ama elde tuttukça bana nakit akışı sağlasın'
+
+Evet...ideal olan...arzumuz, isteğimiz tutkumuz bu! :)
+
+Bist'te...ne kadar mümkün?
+
+TTRAK, Froto, Toaso ...... ancak yıl sonu karlarına göre!!!
+Her yıl değişebiliyor!
+2
+43-@ygzuysl
+ adlı kişiye yanıt olarak
+saldjlsagkj 20 pdflik bi python arşivi var atabilirim istersen video ile anlatanlar feci uzatıyo
+1
+1
+44-Cevaplarınız bizim için değerli 
+Teşekkür ederiz. 
+En çok beğenilen ilk üç eğitimimiz sırasıyla: 
+1. PYTHON 
+2. C# 
+3. JAVA
+@BTKAkademi
+ 
+#1Milyonİstihdam #BtkAkademi
+2
+8
+76
+45-@ahmetumitbayram
+ adlı kişiye yanıt olarak
+aksini ispat edebilir misin. Elin yanlışıkla boşluğa bastığı zaman herhangi bir yerde, hata alıyorsun. BOŞLUK
+2
+46-Küme parantezi olmadığı için mecbur boşluk kullanıyoruz. Bir blokta 4 space bir blokta 3 space bırakırsanız yine hata alırsınız.
+O yüzden Python yazmadan önce pep-8 okumanızı öneririm.
+47-@finance_python
+ ve 
+@tamerdikbiyik
+ adlı kullanıcılara yanıt olarak
+kesinlikle... guney kore'de de benzer durum soz konusu. saniyorum bunun sebebi buyuk fonlar. 
+
+orn. thyao'dan fonlar gelecegini begenmedigi icin cikis yapiyor, fiyat baskilaniyor fakat kucuk capli hissede boyle bir durum olmadigi icin net para girisi gozleniyor fiyat yukseliyor
+1
+1
+48-hocam 
+@zaferdemirkol
+  https://repl.it/languages/python3… bu tür online sayfalar üzerinden python çalışılabilirmi, yoksa ilerlemede sıkıntı mı olur
+Python Online Compiler and IDE - Fast, Powerful, Free
+Repl.it is the world-leading online coding platform where you can collaborate, compile, run, share, and deploy Python online. Code in 50+ programming languages and frameworks!
+repl.it
+1
+1
+49-Başlarken Python için çok kolay demişlerdi
+1
+50-Ihtiyacı olan kişiler katılsın diye Python kitap çekilişi 
+ #cekilis #kod #yazilim #tyt #yks #muhendislik https://instagram.com/p/CGU1cLQAF9L/?igshid=7qbp3idk09q2…
+51-@DDenizSaylam
+ adlı kişiye yanıt olarak
+sessizliğinizi nasıl okumalıyım acaba
+hiçbir şey söyleme YETEER
+sit on my face söyleme
+o ne bilmiyorum
+6 oy · 5 saat kaldı
+1
+1
+52-biçççç kim birinciyi seçtiiii
+üçüncüyü seçen cici insana da şunu bırakalım
+Monty Python - Sit on My Face w/subtitles
+Monty Python live at the Hollywood Bowl in 1982
+youtube.com
+53-@ridianod
+ adlı kişiye yanıt olarak
+Değilim şu anda 
+Cuma gta da oldu bunlar 
+1
+54-Oo abi en oynanmayacak oyun :D adamın bir Python bot yazıp 200 küsür hesaptan bedava gta almıştı 
+ amele kaynıyor içeri. Sabırlar dilerim 
+2
+55-Bugün Larry Hite paylaşımları günü olsun
+Tweeti Alıntıla
+Kirit Manral
+@KiritManral
+ · 4 Eki
+Rather than being solely focused on entries, makes more sense to focus on "RISK MANAGEMENT" the holy grail of this business.
+Because to be in this business, you need money & if you lose all your chips you are out of this game in the wise words of market wizard Larry Hite.
+1/2
+Bu Tweet dizisini göster
+1
+56-Baba ne demişti? “Açıkçası ben piyasayı piyasa olarak görmüyorum. Ben piyasaya baktığımda risk, ödül ve para görüyorum.”
+1
+8
+57-@EsatBatur2
+ adlı kişiye yanıt olarak
+Hepsini geçtim hocam birey bazında sermayeyi koruyabilecek hangi enstrüman var?
+Temettü zaten yok olan da enflasyonun çok altında verim sağlıyor
+Reel faiz yok
+Nakit akışı sağlayabilen yatırımların hiçbiri enflasyon üstü getiri sağlamıyor.
+Bu durumda sermaye aşınması nasıl duracak
+2
+1
+58-Sermayeyi faiz geliri ile değil, ciro ile büyütmeli. Ciro artması için ticaretin açılması lazım. Açılan tek şey kamu harcamaları. Kamu harcamalarını kontrol etmeden enflasyonu düşürmek için faiz yükseltirseniz bu harcamanın maliyetini kredi kullanan herkesin üzerine yüklersiniz.
+5
+59-@kayalif1
+ @finance_python
+ ve 
+@EsatBatur2
+ adlı kullanıcılara yanıt olarak
+Şimdi bankalarda 250 milyar $ DTH 180 milyar $ altın var.Bu servet sahipleri bence hem kendileri para kazanmıyor hem de iş yapmayarak istihdamın önünü kapatıyor.
+1
+1
+60-Codemino ile gercek kodlama dilleri olan Python yada Javascript ogrenebilirsin
+#codemino #kodlama #bilisim #bilişimteknolojileri #uzaktanegitim #evdekal
+ #meb #öğretmen #btoplatformu
+61-Akdağmadeni Kaymakam Mehmet Tahir İHO öğrencilerimizle de #evdekodluyoz geleceğin mimarı tüm çocuklarımıza teşekkür ediyoruz.
+@ziyapolat73
+ @yusufyaz66
+ @CodeWeekEU
+ @codeorgtr
+ #CodeWeek #kodluyoz #evdekodluyoz 
+@scratch
+ @tinkercad
+ @ThePSF
+2
+4
+62-PYTHON PROGRAMLAMA TEMELLERİ - 3
+
+Bilgo Soft
+
+Kayıtlı Öğrenci: 1840
+Beğenilme Oranı: 3
+Ders Sayısı: 11
+Paylaşılma Tarihi: Ekim 13, 2020
+Toplam Kurs Süresi: 2 hours
+
+http://bedavakurs.net/course/python-programlama-temelleri-3…
+2
+63-Bilgisayar Bilimi Dersini Python Ile Zenginleştirin!
+
+Hakan SALTAN
+
+Kayıtlı Öğrenci: 7421
+Beğenilme Oranı: 3.9
+Ders Sayısı: 21
+Paylaşılma Tarihi: 7 Eylül 2020
+Toplam Kurs Süresi: 6.5-hours
+
+http://bedavakurs.net/course/bilgisayar-bilimi-icin-python…
+1
+64-Herkes İçin Python Programlama
+
+Erkan Sağlık
+
+Kayıtlı Öğrenci: 6493
+Beğenilme Oranı: 3.9
+Ders Sayısı: 187
+Paylaşılma Tarihi: 7 Eylül 2020
+Toplam Kurs Süresi: 20-hours
+
+http://bedavakurs.net/course/herkes-icin-python-programlama…
+1
+65-Mevzuatlar,veri analizi zart zurt analizi,yonetim piçkolojisi,bilmem ne hukuku python, R, o kitap bu kitap bilmem ne makalesi fln filan
+
+Me;basimi alam gidem iste boyle...
+66-OpenCV Ile Görüntü İşleme Dersi 1 (Python)
+
+Mustafa Ünlü
+
+Kayıtlı Öğrenci: 248
+Beğenilme Oranı: 4.7
+Ders Sayısı: 6
+Paylaşılma Tarihi: Ekim 3, 2020
+Toplam Kurs Süresi: 2 hours
+
+http://bedavakurs.net/course/opencv-ile-goruntu-isleme-dersi-python…
+2
+67-Başlangıçtan Profesyonelliğe Python Beginner
+
+Tuncer bağcabaşı
+
+Kayıtlı Öğrenci: 20
+Beğenilme Oranı: 0
+Ders Sayısı: 13
+Paylaşılma Tarihi: Ekim 13, 2020
+Toplam Kurs Süresi: 1.5 Saat
+
+http://bedavakurs.net/course/baslangctan-profesyonellige-python-beginner…
+68-Selamlar sevgili dostlar. Sitedeki yeni yazımız olan Python’da veri tipi dönüşümleri yayımlandı. Aşağıdaki bağlantıdan yazımıza ulaşabilirsiniz:
+Temel Bilgilerle Python | Ders 3 - Veri Tipi Dönüşümleri | Timetorya
+Herkese selamlar. Python programlama dersimizin üçüncü kısmına hoş geldiniz. Bu yazımızdaki konu veri tipi dönüşümleri olacak.
+timetorya.com
+1
+69-@EugenGwyneth
+ adlı kişiye yanıt olarak
+Tom Mary'nin Python, JavaScript ve Perl'de nasıl program yapılacağını bildiğini düşündü. Tom Güney Amerika'yı ziyaret etmek istedi. Tom yatağa girdi. O bisiklet sürmekten hoşlandı.
+70-Monty Python's Life of Brian'dan beri neye gülmüşüz biz
+GIF
+Tweeti Alıntıla
+KafeinSiz
+@KafeinSinema
+ · 22s
+En son hangi filme çooook güldünüz?
+8
+71-Uzaktan eğitim kodlamaya engel değil! Çandır Atatürk Ortaokulu öğrencilerimiz codeweek etkinliklerine evden katılıyor. 
+@ziyapolat73
+ @yusufyaz66
+ @CodeWeekEU
+ @codeorgtr
+ #CodeWeek #kodluyoz #evdekodluyoz 
+@scratch
+ @tinkercad
+ @ThePSF
+4
+10
+72-Sorgun Ertuğrul Gazi İlk-Orta Okulu
+#evdekodluyoz
+@ziyapolat73
+ @yusufyaz66
+ @CodeWeekEU
+ @codeorgtr
+ #CodeWeek #kodluyoz 
+@scratch
+ @tinkercad
+ @ThePSF
+1
+1
+73-How to Learn Python for Data Science with Excel? [Summarize Data in Pandas]
+
+https://youtube.com/watch?v=4zLd9YEnABs…
+
+#100DaysOfCode #IoT #100DaysOfMLCode #flutter #javascript #Serverless #womenwhocode #Machinelearning #Python #cybersecurity #RStats #CodeNewbie #DataScience #DEVCommunity
+2
+79
+81
+74-A List of 100+ Random Python (beginner and advanced) Project Ideas
+A List of 100+ Random Python (beginner and advanced) Project Ideas
+Hey guys! I know it's currently quarantine for most people, recruiting season for students/graduates, but also just a good time to keep up with...
+reddit.com
+32
+60
+75-Me> exit
+
+python> Use exit() to exit.
+
+Me>
+GIF
+11
+14
+218
+76-Coding 1002: Getting Started with Python http://cs.co/whypython
+In this session, you'll become familiar with the basics of Python, understand why it's become so popular, and learn how to get started using it yourself. #DevNetCreate
+Coding 1002: Getting Started with Python
+cisco.com
+21
+253
+2,9 B
+77-# Python
+size(800,500)
+clear()
+noiseSeed(8630)
+blendMode(HARD_LIGHT)
+stroke(125,177,203,70)
+noFill()
+t=0
+r=160
+d=50
+while t<22:
+ circle(400+r*cos(t),250+r*sin(t),d)
+ t+=.01
+ r+=3*(noise(r/85)-.5)
+ d+=4*(noise(d/50)-.5)
+#つぶやきProcessing
+2
+18
+78-Silicon #qubits at scale 
+#Analytics #MachineLearning #AI #Python #javascript #RStats #IoT #IIoT #reactjs #BigData #Coding #DataScience #CloudComputing
+#QuantumComputing #SmartCity
+#futureofwork #WomenWhoCode
+#AR #VR #5G #programming
+#100DaysOfCode
+https://physicsworld.com/a/manufacturing-silicon-qubits-at-scale/…
+1
+23
+12
+79-Top 8 #Books on #MachineLearning In #Cybersecurity One Must Read by 
+@Analyticsindiam
+. #BigData #Analytics #DataScience #AI #IoT #IIoT #PyTorch #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Programming #Coding #100DaysofCode 
+https://bit.ly/3nNhbVv
+1
+72
+60
+80-#Single stage v/s 2 stage Object Detection 
+#Analytics #MachineLearing #AI #Python #javascript #RStats #IoT #IIoT #Reactjs #CloudComputing
+#BigData #DataScience #Coding #5G #AR #VR #futureofwork
+#SelfDrivingCars #WomenWhoCode
+#programming #100DaysOfCode
+https://blog.gofynd.com/boost-object-detection-model-accuracy-552586d698c…
+1
+27
+16
+81-#100DaysOfCode Day 11 - Today I tried coding a mod to RimWorld and did some smaller projects in python.
+6
+2
+82-Python with fat belly at Queenstown calmly handled by Acres personnel http://bit.ly/2IpNj1q
+7
+104
+89
+83-Build a Simple TCP Client Server in Python 
+#morioh #python
+Build a Simple TCP Client Server in Python
+In this video, we are going to build a simple TCP client server program in python programming language. In this program, the client is going to send a word in lowercase to the server and the server...
+morioh.com
+4
+84-Today we continue learning inheritance, class and static methods, tests and more tests with unittest in #Python among other topics, with my peer 
+@VictorZulRam94
+ 11
+85-This I just learned while attempting to rouse my daughter for another day of fifth grade: John Philip Sousa’s “Liberty Bell March” is the Monty Python song. Daughter has learned this as well, the hard way.
+25
+17
+259
+86-New Blog featured at 
+@hashnode
+ 
+
+A curated list of Ultimate Python resources is here! 
+You can find all the resources at my GitHub Repository: https://github.com/ayushi7rawat/Ultimate-Python-Resource-Hub…
+Drop a star if you find it useful! 
+#Python #python3 #CodeNewbie #100DaysOfCode
+The Ultimate Python Resource hub
+A curated list of Ultimate Python resources is here! (If you are getting started with #Python or a senior Python developer, you wouldn't wanna miss this) 
+ A lot of people have been recently asking...
+ayushirawat.com
+11
+7
+87-OPPORTUNITY 
+: 
+We are looking for 2-3 engineers (front & back -end) for our upcoming project scheduled to last 6-12 months.
+
+The developers should be proficient in ReactJS, Python or GO.
+
+Email us at info [at] getpesa [dot] co [dot] tz
+Email Subject : Project Neon
+3
+40
+54
+88-#Optics in #Auto Industry 
+#Analytics #MachineLearning #AI #Python #Java #RStats #reactjs
+#IoT #IIoT #CloudComputing #5G #BigData #DataScience #Coding
+#smarthome #SmartCity #AR #VR
+#SelfDrivingCars #futureofwork
+#WomenWhoCode #programming #100DaysOfCode
+https://shanghai-optics.com/about-us/resources/autonomous-driving-how-optical-technology-transform-the-auto-industry/…
+1
+23
+6
+89-Passed the two #Python questions in my graduate program exam.
+1
+90-Hello World with python
+1
+3
+9
