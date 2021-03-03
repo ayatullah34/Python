@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+
+    <title>Başlık - WM Aracı</title>
+
+
+</head>
+
+<body class="container my-4">
+
+    <a href="#" class="btn btn-primary" data-toggle="popover" title="popover header"
+    data-content="some-content">
+        Toogle popover
+    </a>
+
+    <br><br>
+
+    <button id="btnPopover" type="button" class="btn btn-success" data-toggle="popover"
+    title="<h3>Header</h3> <br> <p>Popover text</p>" data-html="true">
+    popover with Html
+    </button>
+
+    <br><br>
+
+    <p>
+
+        <a href="#" class="btn btn-primary" data-toggle="popover" title="popover header"
+        data-content="some-content"  data-placement="top">
+            Toogle popover
+        </a>
+
+        <a href="#" class="btn btn-primary" data-toggle="popover" title="popover header"
+        data-content="some-content"  data-placement="left">
+            Toogle popover
+        </a>
+
+        <a href="#" class="btn btn-primary" data-toggle="popover" title="popover header"
+        data-content="some-content"  data-placement="right">
+            Toogle popover
+        </a>
+
+        <a href="#" class="btn btn-primary" data-toggle="popover" title="popover header"
+        data-content="some-content"  data-placement="bottom">
+            Toogle popover
+        </a>
+        
+    </p>
+
+    <br><br>
+
+    <a href="#" class="btn btn-primary" data-trigger="focus" data-toggle="popover" title="popover header"
+        data-content="some-content" >
+            Toogle popover
+        </a>
+
+    <br><br>
+
+    <a href="#" class="btn btn-primary" data-trigger="hover" data-toggle="popover" title="popover header"
+    data-content="some-content">
+            Toogle popover
+    </a>
+
+    <br><br>
+
+    <p>
+        <button type="button" class="btn btn-warning" onclick="showPopover()">Show Popover</button>
+        <button type="button" class="btn btn-warning" onclick="hidePopover()">Hide Popover</button>
+        <button type="button" class="btn btn-warning" onclick="togglePopover()">Toggle Popover</button>
+    </p>
+    
+    </body>
+  
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+
+    <script>
+        $(function(){
+            $('[data-toggle="popover"]').popover();
+        });
+
+        function showPopover(){
+            $('#btnPopover').popover('show')
+        }
+
+        function hidePopover(){
+            $('#btnPopover').popover('hide')
+        }
+
+        function togglePopover(){
+            $('#btnPopover').popover('toggle')
+        }
+
+        $('#btnPopover').on('show.bs.popover',function(){
+            console.log("show...");
+        });
+
+        $('#btnPopover').on('shown.bs.popover',function(){
+            console.log("shown...");
+        });
+
+        $('#btnPopover').on('hide.bs.popover',function(){
+            console.log("hide...");
+        });
+
+        $('#btnPopover').on('hidden.bs.popover',function(){
+            console.log("hidden...");
+        });
+
+    </script>
+</body>
+
+</html>
